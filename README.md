@@ -12,7 +12,7 @@ Best Test Accuracy: 98.66
 Analysis:
 The model is working. 
 
-https://github.com/Navya-S/ERA/blob/main/ERAS7F1.ipynb
+https://github.com/Navya-S/ERA_Session7/blob/main/ERAS7F1.ipynb
 
 -----------------------------------------------------------------------------------------
 Target: Add batch normalization to increase model efficiency.
@@ -27,7 +27,7 @@ Best Test Accuracy: 99.21
 
 Analysis: model accuracy has mproved.
 
-https://github.com/Navya-S/ERA/blob/main/ERAS7F2.ipynb
+https://github.com/Navya-S/ERA_Session7/blob/main/ERAS7F2.ipynb
 
 -----------------------------------------------------------------------------------------
 Target: Make the model lighter, by adding GAP and removing last big kernal.
@@ -42,7 +42,7 @@ Best Test Accuracy: 99.02
 
 Analysis: Model accuracies have decreased due to reduction in model size/capacity.
 
-https://github.com/Navya-S/ERA/blob/main/ERAS7F3.ipynb
+https://github.com/Navya-S/ERA_Session7/blob/main/ERAS7F3.ipynb
 
 -----------------------------------------------------------------------------------------
 
@@ -58,6 +58,6 @@ Best Test Accuracy: 99.23
 
 Analysis: Model accuracies have increased with increase in model size/capacity. The model is also performing consistently.
 
-https://github.com/Navya-S/ERA/blob/main/ERAS7F4 .ipynb
+https://github.com/Navya-S/ERA_Session7/blob/main/ERAS7F4.ipynb
 
 -----------------------------------------------------------------------------------------
