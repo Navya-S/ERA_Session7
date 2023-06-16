@@ -3,6 +3,7 @@ Target:
 Get the basic skeleton right. 
 
 Results:
+
 Parameters: 9.7k
 Best Train Accuracy: 99.24
 Best Test Accuracy: 98.66
